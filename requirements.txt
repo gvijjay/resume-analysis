@@ -1,0 +1,7 @@
+wyge==1.1.16
+streamlit
+PyPDF2
+pandas
+openai
+python-dotenv
+python-docx
